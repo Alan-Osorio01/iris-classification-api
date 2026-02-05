@@ -23,8 +23,8 @@ cd iris-classification-api
 
 ```bash
 # Configurar tu identidad (si no lo has hecho)
-git config --global user.name "Tu Nombre"
-git config --global user.email "tu.email@universidad.edu"
+git config --global user.name "Alan Osorio"
+git config --global user.email "alanloobo@gmail.com"
 
 # Verificar configuración
 git config --list
